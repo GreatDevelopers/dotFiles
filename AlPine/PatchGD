@@ -1,0 +1,16 @@
+16c16
+< personal-name=YourName
+---
+> personal-name=RamRai
+106c106
+< default-composer-hdrs=From: "YourName",
+---
+> default-composer-hdrs=From: "RamRai",
+206c206
+< editor=/path/to/Editor_vi_vim_pico_joe
+---
+> editor=/home/dotorgdotcom/bin/rotator
+218c218
+< reply-leadin=On _DAYDATE_ at _TIME12_ (_TIMEZONE_), _FROM_ spared time to type:
+---
+> reply-leadin=On _DAYDATE_ at _TIME12_ (_TIMEZONE_), _FROM_ wrote:
