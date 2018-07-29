@@ -1,6 +1,4 @@
 # dotFiles
-Configuration files
-<<<<<<< HEAD
 
 ## Hacker's way to configure Alpine
 
@@ -18,5 +16,3 @@ vi PatchGD
 patch dPineRC  -i PatchGD  -o pineGD
 mv pineGD ~/.pinerc
 ```
-=======
->>>>>>> 5a2d5615d85327efd20a4bff06b3b2282ad75ab0
