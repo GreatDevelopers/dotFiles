@@ -2,6 +2,10 @@
 < personal-name=YourName
 ---
 > personal-name=RamRai
+29c29
+< inbox-path={imap.gmail.com/ssl/user=EMailUserID@gmail.com}inbox
+---
+> inbox-path={imap.gmail.com/ssl/user=ram.rai@gmail.com}inbox
 106c106
 < default-composer-hdrs=From: "YourName",
 ---
@@ -9,7 +13,7 @@
 206c206
 < editor=/path/to/Editor_vi_vim_pico_joe
 ---
-> editor=/home/dotorgdotcom/bin/rotator
+> editor=/home/LocalUser/bin/rotator
 218c218
 < reply-leadin=On _DAYDATE_ at _TIME12_ (_TIMEZONE_), _FROM_ spared time to type:
 ---
